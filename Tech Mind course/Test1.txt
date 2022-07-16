@@ -1,0 +1,1 @@
+This is initial document created in order to pass test.
